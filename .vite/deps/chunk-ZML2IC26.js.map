@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/vue-qr/src/packages/index.js"],
+  "sourcesContent": ["import vueQr from './vue-qr.vue';\n\nvueQr.install = Vue => Vue.component(vueQr.name, vueQr);\n\nexport default vueQr;\n"],
+  "mappings": ";AAAA,OAAO,WAAW;AAElB,MAAM,UAAU,SAAO,IAAI,UAAU,MAAM,MAAM,KAAK;AAEtD,IAAO,mBAAQ;",
+  "names": []
+}

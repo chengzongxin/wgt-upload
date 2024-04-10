@@ -1,0 +1,38 @@
+{
+  "hash": "55001363",
+  "browserHash": "ce47413f",
+  "optimized": {
+    "vue-qr": {
+      "src": "../../node_modules/vue-qr/dist/vue-qr.js",
+      "file": "vue-qr.js",
+      "fileHash": "6b363d88",
+      "needsInterop": true
+    },
+    "vue-qr/src/packages/index": {
+      "src": "../../node_modules/vue-qr/src/packages/index.js",
+      "file": "vue-qr_src_packages_index.js",
+      "fileHash": "d525b1b1",
+      "needsInterop": false
+    },
+    "vue-qr/src/packages": {
+      "src": "../../node_modules/vue-qr/src/packages/index.js",
+      "file": "vue-qr_src_packages.js",
+      "fileHash": "74581fb2",
+      "needsInterop": false
+    },
+    "qrcode": {
+      "src": "../../node_modules/qrcode/lib/browser.js",
+      "file": "qrcode.js",
+      "fileHash": "67f2c7c2",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ZML2IC26": {
+      "file": "chunk-ZML2IC26.js"
+    },
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
+}
